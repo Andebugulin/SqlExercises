@@ -1,4 +1,5 @@
 CREATE DATABASE SQLExercises;
+GO
 
 USE SQLExercises;
 GO
