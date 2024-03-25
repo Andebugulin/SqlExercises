@@ -10,9 +10,9 @@ Week 9 focuses on [describe the main themes or skills, like basic SQL queries, j
 
 ### Contents
 
-- `[README_week9.md](./README_week9.md)`: Contains the SQL exercise questions and answers for week 9.
-- `[week9/](./week9/)`: This directory contains scripts for generating SQL queries specific to week 9 exercises.
-- `[AllAnswerQueries.sql](./week9/AllAnswerQueries.sql)`: A file that consolidates all SQL queries from week 9.
+- [README_week9.md](./README_week9.md): Contains the SQL exercise questions and answers for week 9.
+- [week9/](./week9/): This directory contains scripts for generating SQL queries specific to week 9 exercises.
+- [AllAnswerQueries.sql](./week9/AllAnswerQueries.sql): A file that consolidates all SQL queries from week 9.
 
 ## Week 10
 
@@ -22,9 +22,9 @@ Week 10 progresses to more advanced SQL topics, including [advanced joins, subqu
 
 ### Contents
 
-- `[README_week10.md](./README_WEEK10.md)`: Features the SQL exercise questions and answers for week 10.
-- `[week10/](./week10/)`: This directory hosts scripts for generating SQL queries relevant to week 10's exercises.
-- `[AllAnswerQueries.sql](./week10/AllAnswerQueries.sql)`: A file that consolidates all SQL queries from week 10.
+- [README_week10.md](./README_WEEK10.md): Features the SQL exercise questions and answers for week 10.
+- [week10/](./week10/): This directory hosts scripts for generating SQL queries relevant to week 10's exercises.
+- [AllAnswerQueries.sql](./week10/AllAnswerQueries.sql): A file that consolidates all SQL queries from week 10.
 
 
 ### Generating Queries
